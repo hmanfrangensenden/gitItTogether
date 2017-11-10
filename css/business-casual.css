@@ -64,3 +64,5 @@ hr.divider {
 .map-container iframe.clicked {
   pointer-events: auto;
 }
+
+.brand {color: #ff0000 !important;}
